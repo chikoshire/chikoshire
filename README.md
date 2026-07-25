@@ -4,6 +4,20 @@ Founder of Mustard Seed Group. Building AI operating systems, commercial executi
 
 I work across a portfolio of companies, products and research projects. Most of that work lives in **private repositories by design** — currently **40+ private repos** alongside a small public surface for positioning and downloads.
 
+
+## Public Product Showcases
+
+README-only public repos for the products I am building (source remains private):
+
+| Product | Showcase |
+| --- | --- |
+| **Orbit** | [chikoshire/orbit](https://github.com/chikoshire/orbit) |
+| **CheekyGains** | [chikoshire/cheekygains](https://github.com/chikoshire/cheekygains) |
+| **Minits** | [chikoshire/minits-app](https://github.com/chikoshire/minits-app) |
+| **HARC Solutions** | [chikoshire/harc-solutions](https://github.com/chikoshire/harc-solutions) |
+| **Aurum Contracts** | [chikoshire/aurum-contracts](https://github.com/chikoshire/aurum-contracts) |
+| **Benediction Lab** | [chikoshire/benediction-lab](https://github.com/chikoshire/benediction-lab) |
+
 ## Current Ecosystem
 
 - **Mustard Seed Group** → holding company
