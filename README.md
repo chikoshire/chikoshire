@@ -1,19 +1,20 @@
 # Hi, I'm Chiko Shire.
 
-Founder of Mustard Seed Group. Building AI systems across business operations, research, consumer products and human performance.
+Founder of Mustard Seed Group. Building AI operating systems, commercial execution agents, consumer products and human performance tools.
 
-I work across a portfolio of companies, products and research projects focused on AI operating systems, commercial execution agents, consumer apps, research systems and tools that increase human capability.
+I work across a portfolio of companies, products and research projects. Most of that work lives in **private repositories by design** — currently **40+ private repos** alongside a small public surface for positioning and downloads.
 
 ## Current Ecosystem
 
-- **Mustard Seed Group** -> holding company
-- **TUXX** -> AI systems and custom software studio
-- **Benediction Lab** -> research lab for agents, systems and experiments
-- **Orbit** -> AI operating system for business
-- **Orion** -> commercial execution agent powering Orbit
-- **All Purpose** -> consumer app and media ecosystem
-- **CheekyGains** -> human performance platform
-- **Naira** -> AI performance coach inside CheekyGains
+- **Mustard Seed Group** → holding company
+- **TUXX** → AI systems and custom software studio
+- **Benediction Lab** → research lab for agents, systems and experiments
+- **Orbit** → AI operating system for business
+- **Orion** → commercial execution agent powering Orbit
+- **All Purpose** → consumer app and media ecosystem
+- **CheekyGains** → human performance platform
+- **Naira** → AI performance coach inside CheekyGains
+- **Minits** → local-first second brain (Mac + iOS)
 
 ```text
 Mustard Seed Group
@@ -34,25 +35,32 @@ Mustard Seed Group
     └── All Purpose Music
 ```
 
+## Building Now
+
+Active product and systems work (code stays private; names and intent are public):
+
+| Project | What it is |
+| --- | --- |
+| **Orbit** | AI operating system for business — prospect → launched product |
+| **Orion** | Commercial execution agent / intelligence layer for Orbit |
+| **CheekyGains** | Human performance platform (iOS) |
+| **Naira** | AI performance coach inside CheekyGains |
+| **Minits** | On-device second brain — dictation, call capture, Mac ↔ iOS |
+| **Remote org chart** | Headless HRIS org chart on Remote sandbox (assessment) |
+| **Flowlet** | Local-first macOS dictation (Apple Speech + Whisper/Groq fallbacks) |
+| **Alloy** | Framework-agnostic runtime: web apps → native iOS/Android/macOS |
+
+Also in flight: trading research automation, pattern/ops tools, and Benediction Lab agent-memory experiments.
+
 ## Current Focus
 
-- Building Orbit from prospect to launched product
-- Developing Orion as the intelligence layer for commercial execution
-- Building CheekyGains as a human performance platform
-- Developing Naira as an AI performance coach
-- Using Benediction Lab to explore agentic systems, memory, behaviour design and research-led product development
-- Using TUXX to build custom AI systems and internal tools for clients
+- Shipping Orbit and deepening Orion as the commercial execution layer
+- Building CheekyGains + Naira as a human performance stack
+- Growing Minits as a private, local-first capture system
+- Using Benediction Lab for agentic systems, memory, behaviour design
+- Using TUXX for custom AI systems and internal tools for clients
 
-## Now
-
-Currently building:
-
-- Orbit
-- Orion
-- CheekyGains
-- Naira
-
-Current research:
+## Research Themes
 
 - Agent memory
 - Commercial execution systems
@@ -67,27 +75,22 @@ Current research:
 - Own the control plane.
 - Technology should increase human capability.
 
-## Public Work
+## Public Surface
 
-Most core repositories are private by design because they contain proprietary product systems, agent infrastructure, client delivery work and commercial execution workflows.
+Most core repositories are private because they contain proprietary product systems, agent infrastructure, client delivery work and commercial execution workflows.
 
-The public layer is intentionally focused on positioning, documentation, selected examples and research-facing material. It is not a mirror of the internal product stack.
+Public today:
 
-## What I Share Publicly
+- Profile and positioning (this repo)
+- [Minits downloads](https://github.com/chikoshire/Minits-downloads) — public installers
 
-- Research notes
-- Product essays
-- Public documentation
-- Integration examples
-- Selected experiments
-- Case studies
-- Technical thinking
+Contribution activity on this profile includes **anonymized private work** when private contributions are enabled — volume without exposing repo names or code.
 
 ## Private By Design
 
 Core orchestration, runbooks, agent memory, lead intelligence, UI systems, prompts, client delivery workflows and internal execution systems are not public.
 
-That boundary keeps the public work useful while protecting the proprietary systems behind Mustard Seed Group, TUXX, Benediction Lab, Orbit, Orion, All Purpose, CheekyGains and Naira.
+That boundary keeps the public work useful while protecting the proprietary systems behind Mustard Seed Group, TUXX, Benediction Lab, Orbit, Orion, All Purpose, CheekyGains, Naira and Minits.
 
 ## Links
 
