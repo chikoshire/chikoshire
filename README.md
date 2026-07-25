@@ -7,16 +7,22 @@ I work across a portfolio of companies, products and research projects. Most of 
 
 ## Public Product Showcases
 
-README-only public repos for the products I am building (source remains private):
+README-only public repos (source remains private). Pin up to six on your profile Overview.
 
-| Product | Showcase |
-| --- | --- |
-| **Orbit** | [chikoshire/orbit](https://github.com/chikoshire/orbit) |
-| **CheekyGains** | [chikoshire/cheekygains](https://github.com/chikoshire/cheekygains) |
-| **Minits** | [chikoshire/minits-app](https://github.com/chikoshire/minits-app) |
-| **HARC Solutions** | [chikoshire/harc-solutions](https://github.com/chikoshire/harc-solutions) |
-| **Aurum Contracts** | [chikoshire/aurum-contracts](https://github.com/chikoshire/aurum-contracts) |
-| **Benediction Lab** | [chikoshire/benediction-lab](https://github.com/chikoshire/benediction-lab) |
+| Product | Showcase | Marketing |
+| --- | --- | --- |
+| **Orbit** | [chikoshire/orbit](https://github.com/chikoshire/orbit) | [myorbit.dev](https://myorbit.dev) |
+| **Orion** | [chikoshire/orion](https://github.com/chikoshire/orion) | [myorbit.dev](https://myorbit.dev) · [benedictionlab.com](https://benedictionlab.com) |
+| **CheekyGains** | [chikoshire/cheekygains](https://github.com/chikoshire/cheekygains) | [chikoshire.com](https://chikoshire.com) |
+| **Minits** | [chikoshire/minits-app](https://github.com/chikoshire/minits-app) | [Minits-downloads](https://github.com/chikoshire/Minits-downloads) |
+| **HARC Solutions** | [chikoshire/harc-solutions](https://github.com/chikoshire/harc-solutions) | [harcsolutions.com](https://harcsolutions.com) |
+| **Aurum Contracts** | [chikoshire/aurum-contracts](https://github.com/chikoshire/aurum-contracts) | [tuxxagency.com](https://tuxxagency.com) |
+| **Benediction Lab** | [chikoshire/benediction-lab](https://github.com/chikoshire/benediction-lab) | [benedictionlab.com](https://benedictionlab.com) |
+| **Relay** | [chikoshire/relay](https://github.com/chikoshire/relay) | [chikoshire.com](https://chikoshire.com) |
+| **TUXX** | [chikoshire/tuxx](https://github.com/chikoshire/tuxx) | [tuxxagency.com](https://tuxxagency.com) |
+| **Gen S** | [chikoshire/gen-s](https://github.com/chikoshire/gen-s) | [gen-s.dev](https://gen-s.dev) |
+| **Pattern Up** | [chikoshire/pattern-up](https://github.com/chikoshire/pattern-up) | [pattern-up-app.vercel.app](https://pattern-up-app.vercel.app) |
+
 
 ## Current Ecosystem
 
